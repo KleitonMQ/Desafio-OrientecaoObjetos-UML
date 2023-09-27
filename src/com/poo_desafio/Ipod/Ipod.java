@@ -1,6 +1,6 @@
-package com.poo_desafio.Iphod;
+package com.poo_desafio.Ipod;
 
-public interface Iphod {
+public interface Ipod {
     public void Play();
     public void Pause();
     public void Parar();

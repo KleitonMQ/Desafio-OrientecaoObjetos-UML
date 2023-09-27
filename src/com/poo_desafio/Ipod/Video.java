@@ -1,6 +1,6 @@
-package com.poo_desafio.Iphod;
+package com.poo_desafio.Ipod;
 
-public class Video implements Iphod {
+public class Video implements Ipod {
 
     public Video(){
         BuscarVideos();
